@@ -29,7 +29,7 @@ GameVerse is a gaming application that lets users play a variety of classic game
 To get started, clone the repository:
 
 ```bash
-git clone https://github.com/Praneetha-NM/GameVerse.git
+git clone https://github.com/divyaprabha1805/GameVerse.git
 ```
 
 ### Frontend Setup (React)
