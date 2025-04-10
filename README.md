@@ -2,6 +2,19 @@
 
 GameVerse is a gaming application that lets users play a variety of classic games, including 2048, Breakout, Tetris, and Wordle. The application is designed for an engaging gaming experience, using React for the frontend, Node.js for the backend, and MongoDB for data storage. Players can compete for high scores and enjoy the games in a user-friendly interface.
 
+## Output:
+![Screenshot](images/homepage.jpg)
+![Screenshot](images/Breakout.jpg)
+![Screenshot](images/2048.jpg)
+![Screenshot](images/Tetris.jpg)
+![Screenshot](images/Menupage.jpg)
+![Screenshot](images/wordle.jpg)
+
+
+
+
+
+
 ## Features
 
 - **Multiple Games**: Play 2048, Breakout, Tetris, and Wordle.
